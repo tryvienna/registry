@@ -1,0 +1,122 @@
+[
+  {
+    "id": "weather",
+    "name": "Weather",
+    "description": "Weather forecast in the menu bar",
+    "version": "0.0.1",
+    "source": "github",
+    "repo": "https://github.com/tryvienna/weather-plugin",
+    "icon": "🌤️",
+    "category": "Utilities",
+    "tags": ["weather", "menu-bar"],
+    "author": { "name": "Vienna Team" }
+  },
+  {
+    "id": "github",
+    "name": "GitHub",
+    "description": "GitHub integration — PRs, issues, workflows, and repositories",
+    "version": "0.0.1",
+    "source": "github",
+    "repo": "https://github.com/tryvienna/github-plugin",
+    "icon": "🐙",
+    "category": "Integrations",
+    "tags": ["github", "git", "integration"],
+    "author": { "name": "Vienna Team" }
+  },
+  {
+    "id": "asana",
+    "name": "Asana",
+    "description": "Asana project management — tasks, projects, and workspaces",
+    "version": "0.0.1",
+    "source": "github",
+    "repo": "https://github.com/tryvienna/asana-plugin",
+    "icon": "✅",
+    "category": "Integrations",
+    "tags": ["asana", "project-management", "integration"],
+    "author": { "name": "Vienna Team" }
+  },
+  {
+    "id": "linear",
+    "name": "Linear",
+    "description": "Linear project management — issues, projects, and cycles",
+    "version": "0.0.1",
+    "source": "github",
+    "repo": "https://github.com/tryvienna/linear-plugin",
+    "icon": "📐",
+    "category": "Integrations",
+    "tags": ["linear", "project-management", "integration"],
+    "author": { "name": "Vienna Team" }
+  },
+  {
+    "id": "google_workspace",
+    "name": "Google Workspace",
+    "description": "Gmail, Calendar, and Drive — powered by the gws CLI",
+    "version": "0.0.1",
+    "source": "github",
+    "repo": "https://github.com/tryvienna/google-workspace-plugin",
+    "icon": "📧",
+    "category": "Integrations",
+    "tags": ["google", "gmail", "calendar", "drive", "integration"],
+    "author": { "name": "Vienna Team" }
+  },
+  {
+    "id": "quick_actions",
+    "name": "Quick Actions",
+    "description": "Run pnpm scripts from the menu bar with one click",
+    "version": "0.0.1",
+    "source": "github",
+    "repo": "https://github.com/tryvienna/quick-actions-plugin",
+    "icon": "▶️",
+    "category": "Developer Workflow",
+    "tags": ["scripts", "menu-bar", "productivity"],
+    "author": { "name": "Vienna Team" }
+  },
+  {
+    "id": "mixpanel",
+    "name": "Mixpanel",
+    "description": "Mixpanel analytics — insights reports, funnels, retention, and event trends",
+    "version": "0.0.1",
+    "source": "github",
+    "repo": "https://github.com/tryvienna/mixpanel-plugin",
+    "icon": "📊",
+    "category": "Analytics",
+    "tags": ["mixpanel", "analytics", "funnels", "retention", "integration"],
+    "author": { "name": "Vienna Team" }
+  },
+  {
+    "id": "vienna_tutorials",
+    "name": "Vienna Tutorials",
+    "description": "Interactive tutorials and onboarding guides for Vienna",
+    "version": "0.0.1",
+    "source": "github",
+    "repo": "https://github.com/tryvienna/vienna-tutorials-plugin",
+    "icon": "📖",
+    "category": "Utilities",
+    "tags": ["tutorials", "onboarding", "guides"],
+    "author": { "name": "Vienna Team" }
+  },
+  {
+    "id": "vienna_onboarding",
+    "name": "Vienna Onboarding",
+    "description": "Vienna onboarding plugin with top bar icon and welcome card",
+    "version": "0.0.1",
+    "source": "github",
+    "repo": "https://github.com/tryvienna/vienna-onboarding-plugin",
+    "icon": "👋",
+    "category": "Utilities",
+    "tags": ["onboarding", "welcome"],
+    "author": { "name": "Vienna Team" }
+  },
+  {
+    "id": "claude_status",
+    "name": "Claude Status",
+    "description": "Claude API status in your menu bar",
+    "version": "0.0.1",
+    "source": "github",
+    "repo": "https://github.com/tryvienna/claude-status-plugin",
+    "icon": "🟢",
+    "category": "Utilities",
+    "tags": ["claude", "status", "monitoring", "menu-bar"],
+    "author": { "name": "Vienna Team" }
+  }
+]
