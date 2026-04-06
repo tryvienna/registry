@@ -33,7 +33,6 @@ All plugins are hosted in their own repositories and referenced externally:
 | Google Workspace | [tryvienna/google-workspace-plugin](https://github.com/tryvienna/google-workspace-plugin) |
 | Quick Actions | [tryvienna/quick-actions-plugin](https://github.com/tryvienna/quick-actions-plugin) |
 | Mixpanel | [tryvienna/mixpanel-plugin](https://github.com/tryvienna/mixpanel-plugin) |
-| Vienna Tutorials | [tryvienna/vienna-tutorials-plugin](https://github.com/tryvienna/vienna-tutorials-plugin) |
 | Vienna Onboarding | [tryvienna/vienna-onboarding-plugin](https://github.com/tryvienna/vienna-onboarding-plugin) |
 | Claude Status | [tryvienna/claude-status-plugin](https://github.com/tryvienna/claude-status-plugin) |
 

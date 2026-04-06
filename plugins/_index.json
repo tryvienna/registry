@@ -77,17 +77,6 @@
     "author": { "name": "Vienna Team" }
   },
   {
-    "id": "vienna_tutorials",
-    "name": "Vienna Tutorials",
-    "description": "Interactive tutorials and onboarding guides for Vienna",
-    "version": "0.0.1",
-    "source": "github",
-    "repo": "https://github.com/tryvienna/vienna-tutorials-plugin",
-    "category": "Utilities",
-    "tags": ["tutorials", "onboarding", "guides"],
-    "author": { "name": "Vienna Team" }
-  },
-  {
     "id": "vienna_onboarding",
     "name": "Vienna Onboarding",
     "description": "Vienna onboarding plugin with top bar icon and welcome card",
