@@ -6,7 +6,6 @@
     "version": "0.0.1",
     "source": "github",
     "repo": "https://github.com/tryvienna/weather-plugin",
-    "icon": "🌤️",
     "category": "Utilities",
     "tags": ["weather", "menu-bar"],
     "author": { "name": "Vienna Team" }
@@ -18,7 +17,6 @@
     "version": "0.0.1",
     "source": "github",
     "repo": "https://github.com/tryvienna/github-plugin",
-    "icon": "🐙",
     "category": "Integrations",
     "tags": ["github", "git", "integration"],
     "author": { "name": "Vienna Team" }
@@ -30,7 +28,6 @@
     "version": "0.0.1",
     "source": "github",
     "repo": "https://github.com/tryvienna/asana-plugin",
-    "icon": "✅",
     "category": "Integrations",
     "tags": ["asana", "project-management", "integration"],
     "author": { "name": "Vienna Team" }
@@ -42,7 +39,6 @@
     "version": "0.0.1",
     "source": "github",
     "repo": "https://github.com/tryvienna/linear-plugin",
-    "icon": "📐",
     "category": "Integrations",
     "tags": ["linear", "project-management", "integration"],
     "author": { "name": "Vienna Team" }
@@ -54,7 +50,6 @@
     "version": "0.0.1",
     "source": "github",
     "repo": "https://github.com/tryvienna/google-workspace-plugin",
-    "icon": "📧",
     "category": "Integrations",
     "tags": ["google", "gmail", "calendar", "drive", "integration"],
     "author": { "name": "Vienna Team" }
@@ -66,7 +61,6 @@
     "version": "0.0.1",
     "source": "github",
     "repo": "https://github.com/tryvienna/quick-actions-plugin",
-    "icon": "▶️",
     "category": "Developer Workflow",
     "tags": ["scripts", "menu-bar", "productivity"],
     "author": { "name": "Vienna Team" }
@@ -78,7 +72,6 @@
     "version": "0.0.1",
     "source": "github",
     "repo": "https://github.com/tryvienna/mixpanel-plugin",
-    "icon": "📊",
     "category": "Analytics",
     "tags": ["mixpanel", "analytics", "funnels", "retention", "integration"],
     "author": { "name": "Vienna Team" }
@@ -90,7 +83,6 @@
     "version": "0.0.1",
     "source": "github",
     "repo": "https://github.com/tryvienna/vienna-tutorials-plugin",
-    "icon": "📖",
     "category": "Utilities",
     "tags": ["tutorials", "onboarding", "guides"],
     "author": { "name": "Vienna Team" }
@@ -102,7 +94,6 @@
     "version": "0.0.1",
     "source": "github",
     "repo": "https://github.com/tryvienna/vienna-onboarding-plugin",
-    "icon": "👋",
     "category": "Utilities",
     "tags": ["onboarding", "welcome"],
     "author": { "name": "Vienna Team" }
@@ -114,7 +105,6 @@
     "version": "0.0.1",
     "source": "github",
     "repo": "https://github.com/tryvienna/claude-status-plugin",
-    "icon": "🟢",
     "category": "Utilities",
     "tags": ["claude", "status", "monitoring", "menu-bar"],
     "author": { "name": "Vienna Team" }
