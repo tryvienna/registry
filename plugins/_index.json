@@ -11,14 +11,14 @@
     "author": { "name": "Vienna Team" }
   },
   {
-    "id": "github",
+    "id": "github_cli",
     "name": "GitHub",
-    "description": "GitHub integration — PRs, issues, workflows, and repositories",
+    "description": "GitHub integration via gh CLI — PRs, issues, repos, releases, gists, and workflow runs",
     "version": "0.0.1",
     "source": "github",
-    "repo": "https://github.com/tryvienna/github-plugin",
+    "repo": "https://github.com/tryvienna/github-cli-plugin",
     "category": "Integrations",
-    "tags": ["github", "git", "integration"],
+    "tags": ["github", "git", "integration", "gh-cli"],
     "author": { "name": "Vienna Team" }
   },
   {
