@@ -66,17 +66,6 @@
     "author": { "name": "Vienna Team" }
   },
   {
-    "id": "mixpanel",
-    "name": "Mixpanel",
-    "description": "Mixpanel analytics — insights reports, funnels, retention, and event trends",
-    "version": "0.0.1",
-    "source": "github",
-    "repo": "https://github.com/tryvienna/mixpanel-plugin",
-    "category": "Analytics",
-    "tags": ["mixpanel", "analytics", "funnels", "retention", "integration"],
-    "author": { "name": "Vienna Team" }
-  },
-  {
     "id": "vienna_onboarding",
     "name": "Vienna Onboarding",
     "description": "Vienna onboarding plugin with top bar icon and welcome card",
